@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AF2F7&width=445&height=100&lines=Hey%2C+I+am+Vinay+Mahendre+aka+Bit0x1er;I+am+Security+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000&color=0AF2F7&width=445&height=100&lines=Hey%2C+I+am+Vinay+Mahendre+aka+Bit0x1er;I+am+Security+Researcher)](https://git.io/typing-svg)
 
 ---
 
