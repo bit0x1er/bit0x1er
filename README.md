@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=bit0x1er&icon=2&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/bit0x1er) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bit0x1er) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
