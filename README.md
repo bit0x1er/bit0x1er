@@ -123,20 +123,29 @@
 
 </div>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bit0x1er&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bit0x1er&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bit0x1er&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bit0x1er&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bit0x1er&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+# Contributions Hacktoberfest Badges:
+[![An image of @vinaymbt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinaymbt)](https://holopin.io/@vinaymbt)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bit0x1er&icon=2&color=1)](https://visitcount.itsvg.in)
+
+# GitHub Stats:
+![bit0x1er's Stats](https://github-readme-stats.vercel.app/api?username=bit0x1er&show_icons=true&hide_border=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000)
+![bit0x1er's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bit0x1er&hide_border=true&theme=dark&stroke=00FFFF&background=000000&fire=00FFFF&currStreakNum=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&datesColor=00FFFF)
+![bit0x1er's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bit0x1er&show_icons=true&hide_border=true&layout=compact&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=000000)
+
+---
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bit0x1er&theme=algolia&no-frame=true&no-bg=false&margin-w=4&title_color=00FFFF&text_color=00FFFF&bg_color=000000)
+
+---
+
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bit0x1er&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
+
+---
 
 <p align="center">
   <img src="https://github.com/bit0x1er/bit0x1er/blob/main/github-contribution-grid-snake-dark.svg" alt="snake animation" />
