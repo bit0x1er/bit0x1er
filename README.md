@@ -1,14 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000&color=0AF2F7&width=445&height=100&lines=Hey%2C+I+am+Vinay+Mahendre+aka+Bit0x1er;I+am+Security+Researcher)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFFFFF&size=50&center=true&vCenter=true&height=100&width=900&lines=Hi!+I'm+Vinay+Mahendre+aka+Bit0x1er;I'm+Cybersecurity+Researcher;I+Hack+0+and+1" alt="Title"></img>
+  </a>
+</div>
 
 ---
 
-### 👋 Hi, I'm Vinay Mahendre (aka **Bit0x1er**)
+<h2 align="left">
+  Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  I'm Vinay Mahendre - aka Bit0x1er
+</h2>
 
-🔒 **Security researcher & bug bounty enthusiast.**  
-📚 Currently learning and leveling up in **cybersecurity**.  
-🛠️ Expertise: **Penetration Testing** — Web, API, Network, Android.  
-🔧 I build and contribute to cybersecurity tools, and create my own bug-bounty tools.  
-🤝 Open to collaborations, mentorship, and interesting security projects.
+  🔒 **Security researcher & bug bounty enthusiast.**  
+  📚 Currently learning and leveling up in **cybersecurity**.  
+  🛠️ Expertise: **Penetration Testing** — Web, API, Network, Android.  
+  🔧 I build and contribute to cybersecurity tools.  
+  🤝 Open to collaborations, mentorship, and interesting security projects.
 
 ---
 
