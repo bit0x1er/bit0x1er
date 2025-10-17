@@ -1,3 +1,8 @@
+
+<p align="center"><img src="https://github.com/bit0x1er/bit0x1er/blob/main/banner-bit0x1er-vinaymahendre.gif" width="100%" height="auto"/></p>
+
+---
+
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFFFFF&size=50&center=true&vCenter=true&height=100&width=900&lines=Hi!+I'm+Vinay+Mahendre+aka+Bit0x1er;I'm+Cybersecurity+Researcher;I+Hack+0+and+1" alt="Title"></img>
