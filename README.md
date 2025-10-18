@@ -28,8 +28,8 @@
 # My Superpowers [Tech Stack]:
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
 
-  <!-- 🧨 Hacking & Security -->
-  <h4>🧨 Hacking & Security </h4>
+  <!-- 👨‍💻 Hacking & Security -->
+  <h4>👨‍💻 Hacking & Security </h4>
   <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
